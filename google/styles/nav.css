@@ -1,0 +1,12 @@
+ul {
+    text-decoration: none;
+    list-style-type: none;
+    float: right;
+    vertical-align: center;
+}
+
+li {
+    float: left;
+    padding-inline: 10px;
+}
+
