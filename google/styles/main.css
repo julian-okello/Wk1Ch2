@@ -1,0 +1,60 @@
+.logodiv {
+    width: fit-content;
+}
+
+.searchdiv{
+    align-items: center;
+    display: inline-block;
+    width: 50%;
+    border-radius: 20px;
+    border: 1px solid lightgray;
+    margin-bottom: 20px;
+    height: fit-content;
+    padding-block: 5px;
+    padding-inline: 0px;
+}
+
+.searchinput {
+line-height: 20px;
+padding-inline: 10px;
+border: 0px;
+width: 80%;
+font-size: 24px;
+}
+
+.searchicon{
+    float: left;
+}
+
+.imglogo{
+    width: 30%;
+    height: 30%;
+    margin-top: 10px;
+}
+
+.languagelist{
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.languagelist li{
+    display: inline;
+    padding-inline: 5px;
+}
+
+.searchbar{
+    width: 40%;
+    border-radius: 30px;
+    line-height: 36px;
+    font-size: 18px;
+}
+
+.btndiv{
+    margin-block: 10px;
+}
+
+button{
+    background-color: lightgray;
+    font-size: 14px;
+    padding-block: 5px;
+}

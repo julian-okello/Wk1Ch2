@@ -1,11 +1,11 @@
-ul {
-    text-decoration: none;
-    list-style-type: none;
+.navul{
     float: right;
     vertical-align: center;
 }
 
-li {
+.navul li {
+    text-decoration: none;
+    list-style-type: none;
     float: left;
     padding-inline: 10px;
 }

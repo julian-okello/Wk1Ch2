@@ -4,4 +4,5 @@ window.onload = function(){
 
 function loadComponents(){
 $('#navpanel').load('nav.html');
+$('#mainpanel').load('main.html');
 }

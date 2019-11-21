@@ -17,3 +17,9 @@ height: 16px;
   width: 24px;
 height: 24px;  
 }
+
+#mainpanel{
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
